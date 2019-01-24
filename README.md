@@ -1,12 +1,12 @@
 # marble_mouse
 
-Script to set-up Logitech Marble Mouse on Ubuntu systems.
+Script to set-up Logitech Marble Mouse on Ubuntu systems.<br />
 
-usage:
-    . marble.sh
+usage:<br />
+    . marble.sh<br />
 
-and you are ready to go.
+and you are ready to go.<br />
 
-The script does the following mapping:
-    - to scroll hold left small button
-    - to go-back single click left small button
+The script does the following mapping:<br />
+    - to scroll hold left small button<br />
+    - to go-back single click left small button<br />
